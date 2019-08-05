@@ -1,4 +1,5 @@
 from selenium import webdriver
+form getpass import getpass
 import time
 
 username = 'fb_email@email.com'
